@@ -11,7 +11,7 @@
 
 <!-- PROFILE TELEMETRY & STATUS BADGES -->
 [![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-890-8B5CF6?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/brianconlan2023)
-[![GitHub Followers](https://img.shields.io/badge/Followers-153-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brianconlan2023)
+[![GitHub Followers](https://img.shields.io/github/followers/brianconlan2023?label=Followers&style=for-the-badge&logo=github&color=22D3EE&logoColor=white)](https://github.com/brianconlan2023)
 [![Repositories](https://img.shields.io/badge/Repositories-290+-34D399?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brianconlan2023?tab=repositories)
 [![Status](https://img.shields.io/badge/Focus-ENGINEERING%20SUPER%20AGIS-F472B6?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/brianconlan2023)
 [![Cloud Stack](https://img.shields.io/badge/Stack-Vercel%20%C2%B7%20Supabase%20%C2%B7%20Edge-FBBF24?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/brianconlan2023)
