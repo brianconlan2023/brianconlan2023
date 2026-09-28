@@ -2,26 +2,26 @@
 
 <!-- DYNAMIC TYPING HEADER -->
 <a href="https://github.com/brianconlan2023">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&height=70&lines=⚡+BRIAN+CONLAN;FOUNDER+·+CREATOR+·+VISIONARY;SUPER+AGI+%26+AUTONOMOUS+SWARM+ARCHITECT;BUILDING+SOVEREIGN+CLOUD+ECOSYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&height=70&lines=⚡+BRIAN+CONLAN;FOUNDER+·+CREATOR+·+VISIONARY;SUPER+AGI+%26+AUTONOMOUS+SWARM+ARCHITECT;BUILDING+SCALABLE+AI+ECOSYSTEMS" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Architecting Autonomous Multi-Agent Swarms · Sovereign Cloud Topologies · High-Velocity Full-Stack Platforms</b>
+  <b>Architecting Autonomous Multi-Agent Swarms · Modern Cloud Topologies · High-Velocity Full-Stack Platforms</b>
 </p>
 
 <!-- PROFILE TELEMETRY & STATUS BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=brianconlan2023&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/brianconlan2023)
+[![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-890-8B5CF6?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/brianconlan2023)
 [![GitHub Followers](https://img.shields.io/github/followers/brianconlan2023?label=Followers&style=for-the-badge&logo=github&color=22D3EE&logoColor=white)](https://github.com/brianconlan2023)
 [![Repositories](https://img.shields.io/badge/Repositories-290+-34D399?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brianconlan2023?tab=repositories)
 [![Status](https://img.shields.io/badge/Focus-ENGINEERING%20SUPER%20AGIS-F472B6?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/brianconlan2023)
-[![Infrastructure](https://img.shields.io/badge/Infra-Coolify%20%C2%B7%20Hetzner%20VPS-FBBF24?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/brianconlan2023)
+[![Cloud Stack](https://img.shields.io/badge/Stack-Vercel%20%C2%B7%20Supabase%20%C2%B7%20Edge-FBBF24?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/brianconlan2023)
 
 <br/>
 
 ```
   ┌────────────────────────────────────────────────────────────────────────┐
   │  "Founder, Creator, Visionary, Manifestation."                         │
-  │  Current Vector: Autonomous Agent Swarms · Sovereign Cloud · AI SaaS   │
+  │  Current Vector: Autonomous Agent Swarms · Cloud-Native AI · Full-Stack│
   └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -35,19 +35,19 @@
 const founder = {
   name:        "Brian Conlan",
   title:       ["Founder", "Creator", "Visionary", "Super AGI Architect"],
-  mission:     "Manifesting sovereign intelligence platforms & scalable multi-agent software ecosystems",
-  flagship:    "NEXUS // Super AGI Operations Platform (8-Agent Swarm · 80 Deep Capabilities)",
+  mission:     "Manifesting next-generation intelligence platforms & scalable multi-agent software ecosystems",
+  focus:       "Autonomous Swarms · Cloud-Native Architecture · Full-Stack AI Products",
   coreDomains: [
-    "Autonomous Multi-Agent Swarms",
-    "High-Availability Distributed Systems",
-    "Zero-Trust Security & Cryptographic Gatekeeping",
-    "Multi-Tenant SaaS Rental Engines",
-    "Sovereign Cloud Deployment (Coolify on Hetzner VPS)"
+    "Autonomous Multi-Agent Swarm Orchestration",
+    "High-Availability Distributed Systems Design",
+    "Zero-Trust Security & API Hardening",
+    "Multi-Tenant SaaS Platforms & Real-Time Telemetry",
+    "Modern Cloud & Edge Infrastructure (Vercel, Supabase, Cloudflare)"
   ],
-  infrastructure: {
-    hosting:    "Coolify Orchestration on Hetzner Cloud Bare-Metal / VPS",
-    containers: ["Docker", "Docker Compose", "Alpine Linux", "K8s"],
-    networking: ["Nginx Reverse Proxy", "mTLS SPIFFE", "Redis Token-Bucket Rate Limiter"]
+  stack: {
+    cloud:       ["Vercel", "Supabase", "Cloudflare Edge", "AWS", "Docker"],
+    aiModels:    ["OpenAI GPT-4o", "Anthropic Claude 3.7", "xAI Grok 2", "Google Gemini 2.0", "DeepSeek V3/R1"],
+    frameworks:  ["Next.js", "React", "Node.js 22", "TypeScript", "Python 3.12", "FastAPI"]
   },
   philosophy:  "From Vision to Reality — Relentless execution with zero compromise on quality."
 };
@@ -55,7 +55,7 @@ const founder = {
 
 ---
 
-## ⚡ Flagship Innovation & Featured Ecosystem
+## ⚡ Flagship Innovations & System Architectures
 
 <table>
   <tr>
@@ -69,8 +69,8 @@ const founder = {
       <p>Autonomous Super Artificial General Intelligence (AGI) operations platform engineered to synthesize, test, deploy, and govern production-grade software applications. Features multi-tenant SaaS rental engines, dynamic DAG task graph orchestration, and live multi-viewport preview sandboxes.</p>
       <ul>
         <li><b>Swarm Fleet:</b> NYX (Command), ATLAS (Architecture), VULCAN (Code), HERA (UX), ARGUS (Security), ORACLE (Data), HERMES (Intel), PROMETHEUS (DevOps)</li>
-        <li><b>Hosting:</b> 1-Click continuous deployment via Coolify on Hetzner VPS</li>
-        <li><b>Repository:</b> <a href="https://github.com/brianconlan2023/nexus-super-agents"><b>brianconlan2023/nexus-super-agents</b></a></li>
+        <li><b>Architecture:</b> Cloud-native microservices with multi-model routing</li>
+        <li><b>Status:</b> <code>Proprietary Enterprise Fleet · Production Active</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -82,7 +82,7 @@ const founder = {
       </p>
       <p>Cloud-native multi-region API Gateway and service mesh controller with OpenAPI 3.1 strict contract enforcement, row-level tenant database partitioning, and automated active-passive disaster recovery.</p>
       <ul>
-        <li><b>Stack:</b> Go / Node.js 22, Redis Cluster, PostgreSQL Partitions</li>
+        <li><b>Stack:</b> Node.js 22, Supabase / PostgreSQL, Redis Cache Mesh</li>
         <li><b>Security:</b> Distributed Token-Bucket rate limiting & mTLS identity</li>
         <li><b>Isolation:</b> Zero cross-tenant data bleed guaranteed</li>
       </ul>
@@ -97,7 +97,7 @@ const founder = {
       </p>
       <p>Continuous zero-trust security sentry, STRIDE boundary threat modeler, cryptographic token nonce rotation with anti-replay detection, and automated OWASP Top-10 vulnerability scanner.</p>
       <ul>
-        <li><b>Defense:</b> SQLi/XSS sanitization, dual-gate Chief Owner approval</li>
+        <li><b>Defense:</b> SQLi/XSS sanitization, dual-gate change authorization</li>
         <li><b>Audit:</b> Immutable append-only cryptographic event log</li>
       </ul>
     </td>
@@ -122,34 +122,35 @@ const founder = {
 
 <div align="center">
 
-### 🤖 Multi-Agent AI & Neural Inference Engine
+### 🤖 Multi-Agent AI, LLMs & Neural Inference
 ![Multi-Agent Swarms](https://img.shields.io/badge/Multi--Agent_Swarms-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![Xiaomi MiMo](https://img.shields.io/badge/Xiaomi_MiMo_V2.6_Pro-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
-![Groq LPU](https://img.shields.io/badge/Groq_LPU_Speed-F55036?style=for-the-badge&logo=fastapi&logoColor=white)
-![Claude 3.7](https://img.shields.io/badge/Anthropic_Claude_3.7-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_3.7-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![xAI Grok](https://img.shields.io/badge/xAI_Grok_2-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_V3_·_R1-008080?style=for-the-badge&logo=deepnote&logoColor=white)
 
-### ☁️ Sovereign Cloud, Containers & Infrastructure
-![Coolify](https://img.shields.io/badge/Coolify_Cloud-6B21A8?style=for-the-badge&logo=serverfault&logoColor=white)
-![Hetzner Cloud](https://img.shields.io/badge/Hetzner_VPS_Cluster-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-![Docker Engine](https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes_IaC-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### ☁️ Modern Cloud, Edge & BaaS Infrastructure
+![Vercel](https://img.shields.io/badge/Vercel_Edge_Platform-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_BaaS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### 💻 Languages & Production Backbones
+### 💻 Languages & Full-Stack Backbones
 ![TypeScript](https://img.shields.io/badge/TypeScript_5.x-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js_22_LTS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_Language-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5 / CSS3](https://img.shields.io/badge/HTML5_·_CSS3_Tokens-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🗄️ Databases, Caching & Zero-Trust Security
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis Cluster](https://img.shields.io/badge/Redis_Cache_Mesh-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Cache_Mesh-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Zero-Trust](https://img.shields.io/badge/Zero--Trust_mTLS-FBBF24?style=for-the-badge&logo=auth0&logoColor=white)
-![JWT Nonce](https://img.shields.io/badge/Cryptographic_Security-34D399?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Embeddings_RAG-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white)
 
 </div>
 
@@ -172,8 +173,8 @@ const founder = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-brianconlan2023-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brianconlan2023)
-[![Nexus Repo](https://img.shields.io/badge/Flagship_Repository-NEXUS_Super_AGI-8B5CF6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brianconlan2023/nexus-super-agents)
-[![Hetzner Cloud](https://img.shields.io/badge/Cloud_Cluster-Coolify_Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)](https://github.com/brianconlan2023)
+[![Cloud Stack](https://img.shields.io/badge/Cloud_Ecosystem-Vercel_·_Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/brianconlan2023)
+[![Repositories](https://img.shields.io/badge/Public_Showcases-Explore_Repos-8B5CF6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brianconlan2023?tab=repositories)
 
 <br/>
 
@@ -181,10 +182,10 @@ const founder = {
 $ curl -s https://api.nexus.ai/v1/founder/telemetry
 {
   "founder": "Brian Conlan",
-  "vision": "Autonomous Super AGIs & Sovereign Infrastructure",
+  "vision": "Autonomous Super AGIs & Cloud-Native Ecosystems",
   "fleet_status": "8_AGENTS_ACTIVE_100%_UPTIME",
   "total_assertions_passed": 127,
-  "motto": "Manifestation through architectural excellence and sovereign cloud execution."
+  "motto": "Manifestation through architectural excellence and modern cloud execution."
 }
 ```
 
