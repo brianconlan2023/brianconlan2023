@@ -2,7 +2,7 @@
 
 <!-- DYNAMIC TYPING HEADER -->
 <a href="https://github.com/brianconlan2023">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&height=70&lines=⚡+BRIAN+CONLAN;FOUNDER+·+CREATOR+·+VISIONARY;SUPER+AGI+%26+AUTONOMOUS+SWARM+ARCHITECT;BUILDING+SCALABLE+AI+ECOSYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&height=70&lines=%E2%9A%A1+BRIAN+CONLAN;FOUNDER+%C2%B7+CREATOR+%C2%B7+VISIONARY;SUPER+AGI+%26+SWARM+ARCHITECT;BUILDING+SCALABLE+AI+ECOSYSTEMS" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <!-- PROFILE TELEMETRY & STATUS BADGES -->
 [![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-890-8B5CF6?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/brianconlan2023)
-[![GitHub Followers](https://img.shields.io/github/followers/brianconlan2023?label=Followers&style=for-the-badge&logo=github&color=22D3EE&logoColor=white)](https://github.com/brianconlan2023)
+[![GitHub Followers](https://img.shields.io/badge/Followers-153-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brianconlan2023)
 [![Repositories](https://img.shields.io/badge/Repositories-290+-34D399?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brianconlan2023?tab=repositories)
 [![Status](https://img.shields.io/badge/Focus-ENGINEERING%20SUPER%20AGIS-F472B6?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/brianconlan2023)
 [![Cloud Stack](https://img.shields.io/badge/Stack-Vercel%20%C2%B7%20Supabase%20%C2%B7%20Edge-FBBF24?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/brianconlan2023)
@@ -160,10 +160,13 @@ const founder = {
 
 <div align="center">
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianconlan2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=E9EFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianconlan2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E9EFFF" />
+  <a href="https://github.com/brianconlan2023">
+    <img src="https://streak-stats.demolab.com?user=brianconlan2023&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub Streak" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianconlan2023&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub Streak" />
+  <a href="https://github.com/brianconlan2023">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianconlan2023&theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
 </div>
 
 ---
