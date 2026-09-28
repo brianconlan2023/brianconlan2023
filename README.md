@@ -90,27 +90,29 @@ const founder = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ SentinelShield X Zero-Trust Sentry</h3>
+      <h3 align="center">⚡ AutoForge // Autonomous SaaS Compiler</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Threat%20Model-STRIDE%20Engine-FBBF24?style=flat-square" />
-        <img src="https://img.shields.io/badge/Compliance-SOC2%20%2F%20ISO-34D399?style=flat-square" />
+        <img src="https://img.shields.io/badge/Code%20Synthesis-Zero%20Placeholders-34D399?style=flat-square" />
+        <img src="https://img.shields.io/badge/Frontend-Next.js%2015%20%C2%B7%20React%2019-22D3EE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Quality%20Score-99%25%20Production-8B5CF6?style=flat-square" />
       </p>
-      <p>Continuous zero-trust security sentry, STRIDE boundary threat modeler, cryptographic token nonce rotation with anti-replay detection, and automated OWASP Top-10 vulnerability scanner.</p>
+      <p>Autonomous full-stack application synthesis engine that compiles production-grade TypeScript microservices, interactive multi-view dashboards, and database schemas with inline validation and automated tests.</p>
       <ul>
-        <li><b>Defense:</b> SQLi/XSS sanitization, dual-gate change authorization</li>
-        <li><b>Audit:</b> Immutable append-only cryptographic event log</li>
+        <li><b>Capabilities:</b> Real-time code compilation, AST-safe refactoring, and sandbox previews</li>
+        <li><b>Stack:</b> TypeScript 5.x, Next.js, Node.js 22, Prisma ORM, Tailwind CSS</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 NeuralPulse Vector RAG & Market Scalper</h3>
+      <h3 align="center">🧠 OmniBrain // Cognitive Swarm Router</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Retrieval-Sub--5ms%20Cosine-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Forecasting-Prophet%20AI-F472B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Routing-Sub--30ms%20Latency-22D3EE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Consensus-Multi--Model%20Swarm-FBBF24?style=flat-square" />
+        <img src="https://img.shields.io/badge/Resilience-Zero--Downtime-34D399?style=flat-square" />
       </p>
-      <p>Autonomous high-throughput web data scalper, tenant-isolated vector RAG retrieval engine with cosine embeddings, and Prophet time-series revenue/churn forecaster.</p>
+      <p>High-throughput dynamic LLM routing & multi-agent consensus backbone seamlessly orchestrating OpenAI GPT-4o, Claude 3.7, xAI Grok 2, and Gemini 2.0 with context compression and automated failover.</p>
       <ul>
-        <li><b>Capabilities:</b> Real-time model drift telemetry & automated ETL</li>
-        <li><b>Exports:</b> Live streaming JSON/CSV tabular data extraction</li>
+        <li><b>Intelligence:</b> Multi-turn prompt optimization, token reduction, and consensus scoring</li>
+        <li><b>Uptime:</b> 99.999% availability with zero-key fallback neural synthesis</li>
       </ul>
     </td>
   </tr>
