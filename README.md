@@ -2,7 +2,7 @@
 
 <!-- DYNAMIC TYPING HEADER -->
 <a href="https://github.com/brianconlan2023">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&height=70&lines=%E2%9A%A1+BRIAN+CONLAN;FOUNDER+%C2%B7+CREATOR+%C2%B7+VISIONARY;SUPER+AGI+%26+SWARM+ARCHITECT;BUILDING+SCALABLE+AI+ECOSYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&height=70&lines=%E2%9A%A1+MANIFESTATION16;FOUNDER+%C2%B7+CREATOR+%C2%B7+VISIONARY;SUPER+AGI+%26+SWARM+ARCHITECT;BUILDING+SCALABLE+AI+ECOSYSTEMS" alt="Typing SVG" />
 </a>
 
 <p align="center">
