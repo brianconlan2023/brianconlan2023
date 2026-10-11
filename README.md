@@ -10,7 +10,7 @@
 </p>
 
 <!-- PROFILE TELEMETRY & STATUS BADGES -->
-[![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-1200-8B5CF6?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/brianconlan2023)
+[![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-1262-8B5CF6?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/brianconlan2023)
 [![GitHub Followers](https://img.shields.io/github/followers/brianconlan2023?label=Followers&style=for-the-badge&logo=github&color=22D3EE&logoColor=white)](https://github.com/brianconlan2023)
 [![Repositories](https://img.shields.io/badge/Repositories-290+-34D399?style=for-the-badge&logo=git&logoColor=white)](https://github.com/brianconlan2023?tab=repositories)
 [![Status](https://img.shields.io/badge/Focus-ENGINEERING%20SUPER%20AGIS-F472B6?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/brianconlan2023)
